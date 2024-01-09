@@ -1,5 +1,3 @@
-	<b>Laravel Ecommerce Platform</b>
-
 This is a e-commerce platform I made mostly using Laravel 5.4
 
 ## Requirements
