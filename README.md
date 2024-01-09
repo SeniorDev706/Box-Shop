@@ -1,28 +1,28 @@
 <p align="center">
-<a href="https://github.com/tortuvshin/boxshop">
-<img src="https://github.com/tortuvshin/boxshop/blob/master/public/img/logo.png"/>
+<a href="https://github.com/qweretyetsfgsdfgsdf/boxshop">
+<img src="https://github.com/qweretyetsfgsdfgsdf/boxshop/blob/master/public/img/logo.png"/>
 </a><br>
 	<b>Laravel Ecommerce Platform</b>
 </p>
 
 <p align="center">
-    <a href="https://github.com/tortuvshin/boxshop/issues">
-        <img src="https://img.shields.io/github/issues/tortuvshin/boxshop.svg"
+    <a href="https://github.com/qweretyetsfgsdfgsdf/boxshop/issues">
+        <img src="https://img.shields.io/github/issues/qweretyetsfgsdfgsdf/boxshop.svg"
             alt="Issues"></a>
-     <a href="https://github.com/tortuvshin/boxshop/fork">
-        <img src="https://img.shields.io/github/forks/tortuvshin/boxshop.svg?style=social&label=Fork"
+     <a href="https://github.com/qweretyetsfgsdfgsdf/boxshop/fork">
+        <img src="https://img.shields.io/github/forks/qweretyetsfgsdfgsdf/boxshop.svg?style=social&label=Fork"
             alt="Forks"></a>
-    <a href="https://github.com/tortuvshin/boxshop/stargazers">
-        <img src="https://img.shields.io/github/stars/tortuvshin/boxshop.svg?style=social&label=Stars"
+    <a href="https://github.com/qweretyetsfgsdfgsdf/boxshop/stargazers">
+        <img src="https://img.shields.io/github/stars/qweretyetsfgsdfgsdf/boxshop.svg?style=social&label=Stars"
             alt="Stars"></a>
-    <a href="https://github.com/tortuvshin/">
-        <img src="https://img.shields.io/github/followers/tortuvshin.svg?style=social&label=Follow"
+    <a href="https://github.com/qweretyetsfgsdfgsdf/">
+        <img src="https://img.shields.io/github/followers/qweretyetsfgsdfgsdf?style=social&label=Follow"
             alt="Followers"></a>
-    <a href="https://raw.githubusercontent.com/tortuvshin/boxshop/master/LICENSE">
+    <a href="https://raw.githubusercontent.com/qweretyetsfgsdfgsdf/boxshop/master/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg"
             alt="LICENSE"></a>
     <a href="https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D">
-        <img src="https://img.shields.io/twitter/url/https/github.com/tortuvshin/boxshop.svg?style=social"
+        <img src="https://img.shields.io/twitter/url/https/github.com/qweretyetsfgsdfgsdf/boxshop.svg?style=social"
             alt="Tweet"></a>
 </p>
 
@@ -46,7 +46,7 @@ This is a e-commerce platform I made mostly using Laravel 5.4
 Clone repo
 
 ```
-git clone https://github.com/tortuvshin/boxshop.git
+git clone https://github.com/qweretyetsfgsdfgsdf/boxshop.git
 ```
 
 Install Composer
